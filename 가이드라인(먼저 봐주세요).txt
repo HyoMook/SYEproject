@@ -1,0 +1,7 @@
+Create_BasicDesign.zip = 서버
+SYE_query.sql = 데이터베이스 쿼리문
+SYE.zip = 안드로이드
+SYE_movie = 영상
+
+
+서버와 데이터베이스 켜고 안드로이드 어플 실행해주세요!
